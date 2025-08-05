@@ -43,11 +43,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaithanya3K&show_icons=true&locale=en&theme=tokyonight" alt="Chaithanya3K" />
-</p>
 
 <h3 align="left">🏆 Top Languages:</h3>
 <p align="center">
